@@ -1,12 +1,13 @@
+# Dogemusk
+
+Dogemusk monitors @elonmusk on Twitter and triggers a buy market order on Binance Futures when Elon writes a tweet that includes "doge"
+
+------
+
 # Binance Futures Python SDK
 
-This is Binance Futures Ptyhon SDK, a lightweight python library. You can import to your ptyhon project and use this SDK to query all market data, trading and manage your account.
+Binance Futures Ptyhon SDK is a lightweight python library. 
 
-The SDK supports both synchronous RESTful API invoking  and subscribing the market data and the user's private data from the websocket connection.
-
-## Update log
->1.1.0
->Add binance_d for delivery futures
 
 ## Table of Contents
 
@@ -17,16 +18,11 @@ The SDK supports both synchronous RESTful API invoking  and subscribing the mark
 
 ### Installation
 
-*The SDK is compiled by Python 3.7 and above*
+*Compiled by Python 3.7 and above*
 
-For Beta version, please import the source code directly.
 
 ```Python
 import binance_f  # For perpetual swap
-```
-
-```Python
-import binance_d  # For delivery futures
 ```
 
 The example code is in python3/example.
@@ -37,6 +33,9 @@ To install by source code, run below command
 ```python
 python3 setup.py install
 ```
+```python
+pip install -r requirements.txt
+```
 
-## License
-MIT
+# Tweepy
+In order to implement the Twitter API check the Tweepy resources: https://github.com/tweepy/tweepy
