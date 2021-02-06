@@ -13,8 +13,6 @@ In order to implement the Twitter API check [Tweepy](https://github.com/tweepy/t
 
 ### Installation
 
-To install by source code, run below command
-
 ```python
 python3 setup.py install
 ```
