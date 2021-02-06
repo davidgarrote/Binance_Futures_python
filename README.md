@@ -19,3 +19,8 @@ python3 setup.py install
 ```python
 pip install -r requirements.txt
 ```
+
+### Run
+```python
+python post_order.py
+```
