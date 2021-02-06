@@ -4,17 +4,10 @@ Dogemusk monitors @elonmusk on Twitter and triggers a buy market order on Binanc
 
 ------
 
-# Binance Futures Python SDK
+## Binance Futures Python SDK
 
 Binance Futures Ptyhon SDK is a lightweight python library. 
 
-
-## Table of Contents
-
-- [Beginning](#Beginning)
-  - [Installation](#Installation)
-
-## Beginning
 
 ### Installation
 
