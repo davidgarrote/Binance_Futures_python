@@ -1,6 +1,6 @@
 # Dogemusk
 
-Dogemusk monitors @elonmusk on Twitter and triggers a buy market order on Binance Futures when Elon writes a tweet that includes "doge"
+Dogemusk monitors @elonmusk on Twitter and triggers a buy market order of DOGEUSDT on Binance Futures when Elon writes a tweet that includes "doge"
 
 
 ## Binance Futures Python SDK
