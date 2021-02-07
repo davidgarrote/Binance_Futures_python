@@ -20,7 +20,7 @@ python3 setup.py install
 pip install -r requirements.txt
 ```
 
-### Run
+### Deployment
 ```python
 python post_order.py
 ```
